@@ -8,6 +8,6 @@ describe("add", function () {
 
 describe("sub", function () {
   it("should sub", function () {
-    expect(sub(1, 2)).toEqual(3);
+    expect(sub(2, 1)).toEqual(1);
   });
 });
