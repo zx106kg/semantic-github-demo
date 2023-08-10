@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/zx106kg/semantic-github-demo/compare/v1.1.1...v1.1.2) (2023-08-10)
+
+
+### Bug Fixes
+
+* 修复工具库 ([24f7160](https://github.com/zx106kg/semantic-github-demo/commit/24f71602fcf90531b7f5da2eaecf5b5c9212d7e6))
+
 ## [1.1.1](https://github.com/zx106kg/semantic-github-demo/compare/v1.1.0...v1.1.1) (2023-08-10)
 
 
