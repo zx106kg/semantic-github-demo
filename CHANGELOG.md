@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/zx106kg/semantic-github-demo/compare/v1.1.3...v1.1.4) (2023-08-10)
+
+
+### Bug Fixes
+
+* something ([a8c33e5](https://github.com/zx106kg/semantic-github-demo/commit/a8c33e59d3a542232412fcdd54e87456c95260b1))
+
 ## [1.1.3](https://github.com/zx106kg/semantic-github-demo/compare/v1.1.2...v1.1.3) (2023-08-10)
 
 
